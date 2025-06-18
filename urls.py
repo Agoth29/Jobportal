@@ -1,1 +1,1 @@
-# urls.py placeholder
+# jobs urls.py placeholder
